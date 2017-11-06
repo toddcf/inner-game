@@ -1,1 +1,1 @@
-# inner-game
+# Inner Game
