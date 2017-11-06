@@ -5,8 +5,8 @@
 }
 
 .inner-divs {
-	width: 87%;
-	height: 87%;
+	width: 89%;
+	height: 89%;
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -89,4 +89,84 @@
 .fifteen {
 	background-color: #888;
 	z-index: 15;
+}
+
+.sixteen {
+	background-color: #808080;
+	z-index: 16;
+}
+
+.seventeen {
+	background-color: #777;
+	z-index: 17;
+}
+
+.eighteen {
+	background-color: #6f6f6f;
+	z-index: 18;
+}
+
+.nineteen {
+	background-color: #666;
+	z-index: 19;
+}
+
+.twenty {
+	background-color: #5e5e5e;
+	z-index: 20;
+}
+
+.twentyOne {
+	background-color: #555;
+	z-index: 21;
+}
+
+.twentyTwo {
+	background-color: #4d4d4d;
+	z-index: 22;
+}
+
+.twentyThree {
+	background-color: #444;
+	z-index: 23;
+}
+
+.twentyFour {
+	background-color: #3c3c3c;
+	z-index: 24;
+}
+
+.twentyFive {
+	background-color: #333;
+	z-index: 25;
+}
+
+.twentySix {
+	background-color: #2b2b2b;
+	z-index: 26;
+}
+
+.twentySeven {
+	background-color: #222;
+	z-index: 27;
+}
+
+.twentyEight {
+	background-color: #1a1a1a;
+	z-index: 28;
+}
+
+.twentyNine {
+	background-color: #111;
+	z-index: 29;
+}
+
+.thirty {
+	background-color: #090909;
+	z-index: 30;
+}
+
+.thirtyOne {
+	background-color: #000;
+	z-index: 31;
 }
